@@ -9,10 +9,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "jotai": "^1.13.0",
     "next": "13.1.1",
     "peerjs": "^1.4.7",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "socket.io-client": "^4.5.4",
     "zod": "^3.20.2"
   },
   "devDependencies": {
